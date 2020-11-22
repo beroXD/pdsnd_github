@@ -71,3 +71,18 @@ Using python is was able to compute a variety of descriptive statistics.
 * counts of each user type
 * counts of each gender (only available for NYC and Chicago)
 * earliest, most recent, most common year of birth (only available for NYC and Chicago)
+
+## **Credits:**
+* Richard Kalehoff (Udacity mentor)
+    - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
+    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
+
+* Juno Lee (Udacity Mentor)
+    - [https://github.com/junolee](https://github.com/junolee)
+    - [https://www.linkedin.com/in/junoleelj](https://www.linkedin.com/in/junoleelj)
+    
+* The data for all 3 cities that is used in this project can be accessed through the link mentioned below :
+    - [City Data](https://zips.udacity-data.com/ee7d089a-4a92-4e5d-96d2-bb256fae28e9/565645/1544291225726/Explore+US+Bikeshare+Data+Subtitles.zip)
+
+* The link for commit message style reference for this project is given below :
+    - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
