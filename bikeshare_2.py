@@ -202,10 +202,11 @@ def user_stats(df):
     # TO DO: Display 5 lines of raw data
 def display_data(df):
     raw_data = input('\nWould you like to see the raw data? Enter yes or no.\n')
+    i=5
     while raw_data.lower() == 'yes':
-        print(df.sample(5)) # Sample method returns a random sample of items from an axis of object and this object of same type as your caller.
+        print(df.iloc[:i])
         raw_data = input('\nWould you like to see five more rows of data? Enter yes or no.\n')
-
+        i *= 2
 
 def main():
     while True:
